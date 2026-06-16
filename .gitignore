@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Logs
+logs/
+*.log
+
+# Firebase
+Bolao.Api/Firebase/firebase-adminsdk.json
+
+# Configurações locais
+Bolao.Api/appsettings.Development.json
+Bolao.Api/appsettings.Production.json
+
+# User Secrets
+secrets.json
+
+# Azure
+*.pubxml
+*.PublishSettings
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
